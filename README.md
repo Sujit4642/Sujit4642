@@ -14,7 +14,6 @@ When I'm not coding, I enjoy:
 - Build reliable automation frameworks using **Java,Python Selenium, TestNG & REST Assured**
 - Write maintainable test suites with BDD & Page Object Model
 - Integrate tests with **GitHub Actions / CI/CD**
-- Share projects & learning resources on GitHub
 
 ---
 

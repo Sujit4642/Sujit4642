@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Sujit Mundhe
 
-<!--
-**Sujit4642/Sujit4642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Automation Test Engineer | Java | Selenium | API Testing
 
-Here are some ideas to get you started:
+- 🔭 Working on Automation Frameworks
+- 🌱 Learning advanced Test Automation & CI/CD
+- 💬 Ask me about Java, Selenium, TestNG, APIs
+- 📫 How to reach me: LinkedIn | Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Java
+- Selenium WebDriver
+- TestNG
+- REST Assured
+- Git & GitHub
+- CI/CD (GitHub Actions)
+
+⭐ Check out my repositories below!
